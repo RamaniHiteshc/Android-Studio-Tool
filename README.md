@@ -129,7 +129,7 @@ About Me :
    
 -  I'am an expert iOS developer. I've worked with many projects and executed the same successfully.
    I can do my best. Also, I am completely open to learn new technologie whenever and wherever needed to develop great applications.
-- Email: Ramanihitesh@gmail.com
+- Email: Ramanihiteshc@gmail.com
 
 ## License
 
