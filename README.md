@@ -3,9 +3,7 @@ Android Studio Useful Tool
 
 
 # List of Android Tools
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/wasabeef/awesome-android-tools)
 
-A curated list of awesome Android Tools.
 
 ## Intellij Plugin
 - [JRebel for Android](http://zeroturnaround.com/software/jrebel-for-android/) - Live Android Development. Develop your Android applications in real time.
